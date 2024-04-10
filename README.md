@@ -6,11 +6,11 @@
 <br>
 
 <p align="center">
-  <img alt="Agência Fake" src="assets/AF_01.jpg" width="50%">
+  <img alt="Agência Fake" src="assets/AF_01.png" width="50%">
 </p>
 
 <p align="center">
-  <img alt="Agência Fake" src="assets/AF_02.jpg" width="50%">
+  <img alt="Agência Fake" src="assets/AF_02.png" width="50%">
 </p>
 
 ## Tecnologias
