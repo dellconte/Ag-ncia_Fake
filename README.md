@@ -15,6 +15,5 @@
 
 ## Tecnologias
 - HTML e CSS
-- Git e Github
 
 <p align="center">by dellconte</p>
